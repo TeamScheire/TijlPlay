@@ -1,8 +1,12 @@
-Smartshoe, a shoe that knows how you walk!
+Smartshoe, a shoe that knows how you walk! If you walk good, you hear music, otherwise ... silence.
 
-Een slimme schoen die weet hoe je wandelt!
+Een slimme schoen die weet hoe je wandelt! Als je goed wandelt, hoor je musiek, anders ... stilte
 
 # Ontwikkelaars
+
+## Finale versie
+
+Finale versie is een enkele Wemos, met accelerometer sensor, en MP3 module. Je vindt deze in de src folder.
 
 ## Algemeen
 
