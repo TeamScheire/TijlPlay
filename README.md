@@ -7,12 +7,31 @@ Een slimme schoen die weet hoe je wandelt! Als je goed wandelt, hoor je musiek, 
 ## Finale versie
 
 Finale versie is een enkele Wemos, met accelerometer sensor, en MP3 module. Je vindt deze in de src folder.
+Meer info op [de TijlPlay pagina](TijlPlay.md).
 
-## Algemeen
+## Algemene info over de Prototypes
+
+### Test  1: slimme zool
+Contact in de zool in de hiel. Problemen evenwel die zorgen ermee niet verder te doen
+
+- duurzaamheid: zolen verslijten in 6 maand
+- stroom en radio-communicatie voorzien in de schoen
+- zolen veranderen van schoenen, eenvoud van gebruik.
+
+### Test 2: Micro Bit
+
+Micro-bit heeft een goede accelerometer. Prototype 2 maakt er gebruik van.
 
 Alle info van Microbit terug te vinden op [microbit.org](https://microbit.org)
 
 Je kan code schrijven in de python programmeertaal voor MicroBit online, zie [Microbit v1.1 editor](https://python.microbit.org/v/1.1)
+
+### Test 3: Adafruit feather
+
+De feather als update over de microbit .. deze ontplofte evenwel, dus gezien trage levering, overgeschakeld over wemas D1 Mini
+
+### Test 4: Wemos
+Finale prototype
 
 ## Microbit Linux
 
